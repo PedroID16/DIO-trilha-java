@@ -1,15 +1,26 @@
 public class TiposVariavel {
 
 public static void main(String[] args) {
-    System.out.println("hello world,again!");
-System.out.println("is this better VSCODE!?!");
-System.out.println("yeahbaby");
 
-int a,b;
-a=3;
-b=3;
-    String resultado = a==b ? "truezao": "falsao";
-    System.out.println(resultado);
+                    //condicao ternaria
+//int a,b;
+//a=3;
+//b=3;
+  //  String resultado = a==b ? "truezao": "falsao";
+   // System.out.println(resultado);
+
+
+                //metodos TV
+Television lg = new Television();
+System.out.println(lg.on);
+lg.turnOn();
+lg.upChannel();
+lg.specificChannel(11);
+lg.volumeUp();
+lg.turnOff();
+
+
+
 }
 
 }
