@@ -1,2 +1,2 @@
 # DIO-trilha-java
-curso D I O java
+curso DIO java
